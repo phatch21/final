@@ -5,6 +5,9 @@
     width: auto;
     height: auto;
 }
+.border{
+    outline: auto;
+}
 .li{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(4, 4, 135);
@@ -36,12 +39,14 @@
     color: rgb(232, 247, 215);
 }
 .video{
-    display: relative;
     padding-right: 25%;
-}
-.img{
-    border-radius: 50%;
 }
 #video2{
     text-align: right;
+}
+.video3{
+    display: relative;
+}
+.img{
+    border-radius: 50%;
 }
