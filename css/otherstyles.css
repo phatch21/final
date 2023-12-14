@@ -1,0 +1,47 @@
+.background{
+    background-image: url('../assets/img/mountains.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+.li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 4, 135);
+}
+.back{
+    background-color: rgba(252, 255, 59, 0.105);
+    border: darkblue;
+    outline: double;
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(15, 15, 144);
+    text-align: center;
+    text-size-adjust: 100%;
+}
+.font2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(15, 15, 144);
+    display: block;
+}
+.mainstuff{
+    position: absolute;
+    top:25%;
+}
+.link{
+    color: rgba(10, 75, 75, 0.493);
+}
+.link2{
+    color: rgb(232, 247, 215);
+}
+.video{
+    display: relative;
+    padding-right: 25%;
+}
+.img{
+    border-radius: 50%;
+}
+#video2{
+    text-align: right;
+}
