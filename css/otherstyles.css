@@ -35,11 +35,18 @@
     top:25%;
 }
 .link{
-    color: rgba(10, 75, 75, 0.493);
+    color: rgba(0, 0, 0, 0.493);
+}
+.link:hover {
+    font-size: 110%;
 }
 .link2{
-    color: rgb(226, 241, 160);
+    color: rgb(226, 249, 113);
     font-size: large;
+    background-color: rgba(2, 8, 14, 0.544);
+}
+.link2:hover {
+    font-size: 120%;
 }
 .video{
     padding-left: 2%;
